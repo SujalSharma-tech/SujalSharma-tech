@@ -102,6 +102,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SujalSharma-tech/SujalSharma-tech/output/snake.svg" alt="Snake animation" />
+
 
 ###
